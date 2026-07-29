@@ -10,7 +10,7 @@ You start with zero knowledge and end with a real, confident workflow.
 
 | Instructor Profile | Instructor Name | Social Links |
 | :---: | :--- | :--- |
-| <img src="https://github.com/aburakab.png" width="80" style="border-radius: 50%;"> | **Mohammad Aljaber** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aburakab) |
+| <img src="https://github.com/aburakab.png" width="80" style="border-radius: 50%;"> | **Mohammad Aljaber** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aburakab)<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-najeeb-aljaber-53a9239/) |
 
 ---
 
@@ -19,14 +19,13 @@ Thank you to all the students who have contributed and added their names to this
 
 <!-- ⚠️مكان النسخ  -->
 
-
-## 👨‍💻 Team Members
-
 | Student Profile | Full Name | Social Profiles |
-|:---------------:|:----------|:----------------|
-| <img src="https://github.com/MohammedShkokany.png" width="50" style="border-radius:50%;"> | **Mohammed Shkokany** | <a href="https://github.com/MohammedShkokany"><img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white" /></a><br><a href="https://www.linkedin.com/in/mohammed-shkokany-69b501300/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
-| <img src="https://github.com/ali-talal-ibrahem.png" width="50" style="border-radius:50%;"> | **Ali Talal Ibrahem** | <a href="https://github.com/ali-talal-ibrahem"><img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white" /></a><br><a href="https://linkedin.com/in/ali-talal-ibrahem"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
+| :---: | :---: | :---: |
+| <img src="https://github.com/ZiyadAlbokhari.png" width="40" style="border-radius: 50%;"> | **Ziyad Albokhari** | [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZiyadAlbokhari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziyadd/) |
+| <img src="https://github.com/MohammedShkokany.png" width="40" style="border-radius: 50%;"> | **Mohammed Shkokany** | [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedShkokany) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-shkokany-69b501300/) |
+| <img src="https://github.com/ali-talal-ibrahem.png" width="40" style="border-radius: 50%;"> | **Ali Talal Ibrahem** | [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ali-talal-ibrahem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-talal-ibrahem) |
 
+---
 
 <p align="left">
   <img src="screenshots/How.webp" width="1400" alt="HOW TO JOIN">
